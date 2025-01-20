@@ -1,2 +1,23 @@
+/* styles.css */
 
-/* Your CSS Code here. */
+/* Styling for the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+/* Styling for headings */
+h1 {
+    color: #2c3e50;
+}
+
+h2 {
+    color: #34495e;
+}
+
+/* Styling for lists */
+ol, ul {
+    margin: 10px 0;
+    padding-left: 20px;
+}
